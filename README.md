@@ -15,8 +15,15 @@
 
 ## How it works
 
-- blog post on news.openuse.org and openSUSE social media channels
-- first monday of every month, 4PM UTC
+- what you do:
+  - create a [new issue](https://github.com/TobiPeterG/cits/issues/new?assignees=&labels=&projects=&template=application-contributor-in-the-spotlight.md&title=%5BAPPLICATION%5D)
+  - fill out the template
+  - select the label for the month you are applying for
+  - done :)
+- what we do:
+  - go through all applications for the current month
+  - select one application and prepare a blog post
+  - create a blog post on [news.opensuse.org](https://news.opensuse.org) on first monday of every month, 4PM UTC
 
 ## Guidelines
 
@@ -25,10 +32,11 @@
   - handed in until 15th of the month
   - written in English
   - about yourself, not someone else
-- applications need to contain
+- applications need to contain:
   - brief introduction of you
   - description/use cases of the contribution
   - picture of you OR a short video or image showcasing contribution
   - URL to the project OR proof of contribution
   - how does it relate to openSUSE?
   - what is special about it?
+  
