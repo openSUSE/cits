@@ -3,7 +3,7 @@ name: Application Contributor in the Spotlight
 about: Apply for Contributor in the Spotlight
 title: "[APPLICATION]"
 labels: ''
-assignees: TobiPeterG
+assignees: ''
 
 ---
 
